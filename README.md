@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fangwohung
 - 👀 I’m interested in beautiful women.
-- 🌱 I’m currently learning Java, NodeJS, ReactJS, ReactNative, Keycloak, Vertx, Spring Cloud, Spring Boot 
+- 🌱 I’m currently learning Java, NodeJS, ReactJS, NextJS, ReactNative, Keycloak, Vertx, Spring Cloud, Spring Boot, Typescript 
 - 💞️ I’m building an e-commerce web app 
 - 📫 
 
